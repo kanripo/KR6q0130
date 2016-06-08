@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:46:34.973595
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 17:09
 #+TITLE: 寶鏡三昧原宗辨謬說
 #+PROPERTY: CBETA_ID X63n1238
 #+PROPERTY: ID KR6q0130
